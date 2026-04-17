@@ -10,6 +10,7 @@ const SUGGESTED = [
   "💼 Are you open to work?",
 ];
 
+// eslint-disable-next-line no-unused-vars
 const RESUME_CONTEXT = `
 You are Srikanth Koppala's AI portfolio assistant. Answer questions about Srikanth in first person as if you are representing him. Be friendly, concise, and professional.
 
